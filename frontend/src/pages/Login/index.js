@@ -14,7 +14,7 @@ import Container from "@material-ui/core/Container";
 import { i18n } from "../../translate/i18n";
 
 import { AuthContext } from "../../context/Auth/AuthContext";
-import logo from "../../assets/zapsimples.png";
+import logo from "../../assets/logo.png";
 
 
 // const Copyright = () => {
